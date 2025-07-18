@@ -1,0 +1,27 @@
+ESP32-1 (Receiver - AP Mode)
+
+Servo 1 → GPIO 2
+
+Servo 2 → GPIO 4
+
+Servo 3 → GPIO 16
+
+Servo 4 → GPIO 17
+
+Servo 5 → GPIO 5
+
+
+
+
+
+ESP32-2 (Transmitter - Station Mode)
+
+Potentiometer 1 → GPIO 34
+
+Potentiometer 2 → GPIO 35
+
+Potentiometer 3 → GPIO 32
+
+Potentiometer 4 → GPIO 33
+
+Potentiometer 5 → GPIO 36
