@@ -3,6 +3,7 @@ This wireless bionic arm is controlled via Wi-Fi and seamlessly replicates my re
 With a battery life of 2-3 hours, it can be easily recharged using a regular phone charger, ensuring convenience and portability.
 
 
+
 > Key Features of My Bionic Arm V2:
 
 ✅ Wireless Control - Uses an ESP32-based glove to transmit finger movements to the bionic arm.
@@ -14,6 +15,7 @@ With a battery life of 2-3 hours, it can be easily recharged using a regular pho
 ✅ Custom Power System - A 7.4V Li-ion battery pack with a TP4056-based charging system for stable performance.
 
 ✅ Gripping Capability - Can hold and lift objects (though improvements in grip strength are needed).
+
 
 
 > Challenges & Learnings:
